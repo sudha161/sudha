@@ -8,6 +8,6 @@ cout<<"zero";
 else if(n<0)
 cout<<"negative";
 else
-cout<<"positive";
+cout<<"Positive";
 }
 
